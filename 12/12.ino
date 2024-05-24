@@ -171,11 +171,11 @@ void setup()
 void loop() 
 {
   display_number(1, 1);
-  delay(500);
+  delay(5);
   display_number(2, 2);
-  delay(500);
+  delay(5);
   display_number(3, 3);
-  delay(500);
+  delay(5);
   display_number(4, 4);
-  delay(500);
+  delay(5);
 }
